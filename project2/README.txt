@@ -1,4 +1,3 @@
-Zhilin Yue
 MPCS 54001 Project2
 
 Compilation and Running Notes:
